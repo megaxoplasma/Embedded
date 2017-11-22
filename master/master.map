@@ -208,7 +208,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_rcc.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_rcc.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_rcc.o
- .debug_str     0x00000000      0x126 ../arch/stm32/f3/src/stm32f3xx_ll_rcc.o
+ .debug_str     0x00000000      0x121 ../arch/stm32/f3/src/stm32f3xx_ll_rcc.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_rcc.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_rcc.o
@@ -220,7 +220,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ../arch/stm32/f3/src/stm32f3xx_hal_pccard.o
  .debug_line    0x00000000      0x103 ../arch/stm32/f3/src/stm32f3xx_hal_pccard.o
- .debug_str     0x00000000      0x1e7 ../arch/stm32/f3/src/stm32f3xx_hal_pccard.o
+ .debug_str     0x00000000      0x1e2 ../arch/stm32/f3/src/stm32f3xx_hal_pccard.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_pccard.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_hal_pccard.o
@@ -228,7 +228,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_exti.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_exti.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_exti.o
- .debug_str     0x00000000      0x127 ../arch/stm32/f3/src/stm32f3xx_ll_exti.o
+ .debug_str     0x00000000      0x122 ../arch/stm32/f3/src/stm32f3xx_ll_exti.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_exti.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_exti.o
@@ -241,7 +241,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_crc_ex.o
  .debug_line    0x00000000      0x1d8 ../arch/stm32/f3/src/stm32f3xx_hal_crc_ex.o
- .debug_str     0x00000000      0x47d ../arch/stm32/f3/src/stm32f3xx_hal_crc_ex.o
+ .debug_str     0x00000000      0x478 ../arch/stm32/f3/src/stm32f3xx_hal_crc_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_crc_ex.o
  .debug_frame   0x00000000       0x58 ../arch/stm32/f3/src/stm32f3xx_hal_crc_ex.o
  .ARM.attributes
@@ -257,7 +257,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_rcc_ex.o
  .debug_ranges  0x00000000       0xc0 ../arch/stm32/f3/src/stm32f3xx_hal_rcc_ex.o
  .debug_line    0x00000000      0x453 ../arch/stm32/f3/src/stm32f3xx_hal_rcc_ex.o
- .debug_str     0x00000000      0x572 ../arch/stm32/f3/src/stm32f3xx_hal_rcc_ex.o
+ .debug_str     0x00000000      0x56d ../arch/stm32/f3/src/stm32f3xx_hal_rcc_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_rcc_ex.o
  .debug_frame   0x00000000       0xb4 ../arch/stm32/f3/src/stm32f3xx_hal_rcc_ex.o
  .ARM.attributes
@@ -273,7 +273,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_usart.o
  .debug_ranges  0x00000000       0xb8 ../arch/stm32/f3/src/stm32f3xx_hal_usart.o
  .debug_line    0x00000000      0xafc ../arch/stm32/f3/src/stm32f3xx_hal_usart.o
- .debug_str     0x00000000      0xb0d ../arch/stm32/f3/src/stm32f3xx_hal_usart.o
+ .debug_str     0x00000000      0xb08 ../arch/stm32/f3/src/stm32f3xx_hal_usart.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_usart.o
  .debug_frame   0x00000000      0x420 ../arch/stm32/f3/src/stm32f3xx_hal_usart.o
  .ARM.attributes
@@ -288,7 +288,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_i2c.o
  .debug_ranges  0x00000000      0x800 ../arch/stm32/f3/src/stm32f3xx_hal_i2c.o
  .debug_line    0x00000000     0x1749 ../arch/stm32/f3/src/stm32f3xx_hal_i2c.o
- .debug_str     0x00000000      0xdaa ../arch/stm32/f3/src/stm32f3xx_hal_i2c.o
+ .debug_str     0x00000000      0xda5 ../arch/stm32/f3/src/stm32f3xx_hal_i2c.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_i2c.o
  .debug_frame   0x00000000      0x858 ../arch/stm32/f3/src/stm32f3xx_hal_i2c.o
  .ARM.attributes
@@ -297,7 +297,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_usart.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_usart.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_usart.o
- .debug_str     0x00000000      0x128 ../arch/stm32/f3/src/stm32f3xx_ll_usart.o
+ .debug_str     0x00000000      0x123 ../arch/stm32/f3/src/stm32f3xx_ll_usart.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_usart.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_usart.o
@@ -305,7 +305,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_i2c.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_i2c.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_i2c.o
- .debug_str     0x00000000      0x126 ../arch/stm32/f3/src/stm32f3xx_ll_i2c.o
+ .debug_str     0x00000000      0x121 ../arch/stm32/f3/src/stm32f3xx_ll_i2c.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_i2c.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_i2c.o
@@ -318,7 +318,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_dac.o
  .debug_line    0x00000000      0x228 ../arch/stm32/f3/src/stm32f3xx_hal_dac.o
- .debug_str     0x00000000      0x685 ../arch/stm32/f3/src/stm32f3xx_hal_dac.o
+ .debug_str     0x00000000      0x680 ../arch/stm32/f3/src/stm32f3xx_hal_dac.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_dac.o
  .debug_frame   0x00000000      0x15c ../arch/stm32/f3/src/stm32f3xx_hal_dac.o
  .ARM.attributes
@@ -333,7 +333,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_opamp.o
  .debug_ranges  0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_opamp.o
  .debug_line    0x00000000      0x326 ../arch/stm32/f3/src/stm32f3xx_hal_opamp.o
- .debug_str     0x00000000      0x596 ../arch/stm32/f3/src/stm32f3xx_hal_opamp.o
+ .debug_str     0x00000000      0x591 ../arch/stm32/f3/src/stm32f3xx_hal_opamp.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_opamp.o
  .debug_frame   0x00000000      0x130 ../arch/stm32/f3/src/stm32f3xx_hal_opamp.o
  .ARM.attributes
@@ -342,7 +342,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_opamp.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_opamp.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_opamp.o
- .debug_str     0x00000000      0x128 ../arch/stm32/f3/src/stm32f3xx_ll_opamp.o
+ .debug_str     0x00000000      0x123 ../arch/stm32/f3/src/stm32f3xx_ll_opamp.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_opamp.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_opamp.o
@@ -355,7 +355,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_adc.o
  .debug_line    0x00000000      0x1f2 ../arch/stm32/f3/src/stm32f3xx_hal_adc.o
- .debug_str     0x00000000      0x792 ../arch/stm32/f3/src/stm32f3xx_hal_adc.o
+ .debug_str     0x00000000      0x78d ../arch/stm32/f3/src/stm32f3xx_hal_adc.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_adc.o
  .debug_frame   0x00000000      0x170 ../arch/stm32/f3/src/stm32f3xx_hal_adc.o
  .ARM.attributes
@@ -364,7 +364,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_dac.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_dac.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_dac.o
- .debug_str     0x00000000      0x126 ../arch/stm32/f3/src/stm32f3xx_ll_dac.o
+ .debug_str     0x00000000      0x121 ../arch/stm32/f3/src/stm32f3xx_ll_dac.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_dac.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_dac.o
@@ -377,7 +377,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_i2s_ex.o
  .debug_line    0x00000000      0x743 ../arch/stm32/f3/src/stm32f3xx_hal_i2s_ex.o
- .debug_str     0x00000000      0x97e ../arch/stm32/f3/src/stm32f3xx_hal_i2s_ex.o
+ .debug_str     0x00000000      0x979 ../arch/stm32/f3/src/stm32f3xx_hal_i2s_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_i2s_ex.o
  .debug_frame   0x00000000      0x1dc ../arch/stm32/f3/src/stm32f3xx_hal_i2s_ex.o
  .ARM.attributes
@@ -391,7 +391,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_pwr.o
  .debug_line    0x00000000      0x1cb ../arch/stm32/f3/src/stm32f3xx_hal_pwr.o
- .debug_str     0x00000000      0x429 ../arch/stm32/f3/src/stm32f3xx_hal_pwr.o
+ .debug_str     0x00000000      0x424 ../arch/stm32/f3/src/stm32f3xx_hal_pwr.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_pwr.o
  .debug_frame   0x00000000       0xdc ../arch/stm32/f3/src/stm32f3xx_hal_pwr.o
  .ARM.attributes
@@ -400,7 +400,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_pwr.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_pwr.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_pwr.o
- .debug_str     0x00000000      0x126 ../arch/stm32/f3/src/stm32f3xx_ll_pwr.o
+ .debug_str     0x00000000      0x121 ../arch/stm32/f3/src/stm32f3xx_ll_pwr.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_pwr.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_pwr.o
@@ -413,7 +413,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_dac_ex.o
  .debug_line    0x00000000      0x407 ../arch/stm32/f3/src/stm32f3xx_hal_dac_ex.o
- .debug_str     0x00000000      0x7c0 ../arch/stm32/f3/src/stm32f3xx_hal_dac_ex.o
+ .debug_str     0x00000000      0x7bb ../arch/stm32/f3/src/stm32f3xx_hal_dac_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_dac_ex.o
  .debug_frame   0x00000000      0x1f8 ../arch/stm32/f3/src/stm32f3xx_hal_dac_ex.o
  .ARM.attributes
@@ -427,7 +427,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_adc_ex.o
  .debug_line    0x00000000     0x1321 ../arch/stm32/f3/src/stm32f3xx_hal_adc_ex.o
- .debug_str     0x00000000      0xeaa ../arch/stm32/f3/src/stm32f3xx_hal_adc_ex.o
+ .debug_str     0x00000000      0xea5 ../arch/stm32/f3/src/stm32f3xx_hal_adc_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_adc_ex.o
  .debug_frame   0x00000000      0x518 ../arch/stm32/f3/src/stm32f3xx_hal_adc_ex.o
  .ARM.attributes
@@ -441,7 +441,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_pcd_ex.o
  .debug_line    0x00000000      0x1ea ../arch/stm32/f3/src/stm32f3xx_hal_pcd_ex.o
- .debug_str     0x00000000      0x5a3 ../arch/stm32/f3/src/stm32f3xx_hal_pcd_ex.o
+ .debug_str     0x00000000      0x59e ../arch/stm32/f3/src/stm32f3xx_hal_pcd_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_pcd_ex.o
  .debug_frame   0x00000000       0x68 ../arch/stm32/f3/src/stm32f3xx_hal_pcd_ex.o
  .ARM.attributes
@@ -454,7 +454,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ../arch/stm32/f3/src/stm32f3xx_hal_cec.o
  .debug_line    0x00000000      0x103 ../arch/stm32/f3/src/stm32f3xx_hal_cec.o
- .debug_str     0x00000000      0x1e4 ../arch/stm32/f3/src/stm32f3xx_hal_cec.o
+ .debug_str     0x00000000      0x1df ../arch/stm32/f3/src/stm32f3xx_hal_cec.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_cec.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_hal_cec.o
@@ -467,7 +467,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_pwr_ex.o
  .debug_line    0x00000000      0x1ae ../arch/stm32/f3/src/stm32f3xx_hal_pwr_ex.o
- .debug_str     0x00000000      0x2e5 ../arch/stm32/f3/src/stm32f3xx_hal_pwr_ex.o
+ .debug_str     0x00000000      0x2e0 ../arch/stm32/f3/src/stm32f3xx_hal_pwr_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_pwr_ex.o
  .debug_frame   0x00000000       0x74 ../arch/stm32/f3/src/stm32f3xx_hal_pwr_ex.o
  .ARM.attributes
@@ -482,7 +482,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_pcd.o
  .debug_ranges  0x00000000      0x118 ../arch/stm32/f3/src/stm32f3xx_hal_pcd.o
  .debug_line    0x00000000      0x612 ../arch/stm32/f3/src/stm32f3xx_hal_pcd.o
- .debug_str     0x00000000      0x7a0 ../arch/stm32/f3/src/stm32f3xx_hal_pcd.o
+ .debug_str     0x00000000      0x79b ../arch/stm32/f3/src/stm32f3xx_hal_pcd.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_pcd.o
  .debug_frame   0x00000000      0x30c ../arch/stm32/f3/src/stm32f3xx_hal_pcd.o
  .ARM.attributes
@@ -495,7 +495,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ../arch/stm32/f3/src/stm32f3xx_ll_fmc.o
  .debug_line    0x00000000      0x103 ../arch/stm32/f3/src/stm32f3xx_ll_fmc.o
- .debug_str     0x00000000      0x1e3 ../arch/stm32/f3/src/stm32f3xx_ll_fmc.o
+ .debug_str     0x00000000      0x1de ../arch/stm32/f3/src/stm32f3xx_ll_fmc.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_fmc.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_fmc.o
@@ -509,7 +509,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_comp.o
  .debug_ranges  0x00000000       0x38 ../arch/stm32/f3/src/stm32f3xx_hal_comp.o
  .debug_line    0x00000000      0x3c6 ../arch/stm32/f3/src/stm32f3xx_hal_comp.o
- .debug_str     0x00000000      0x528 ../arch/stm32/f3/src/stm32f3xx_hal_comp.o
+ .debug_str     0x00000000      0x523 ../arch/stm32/f3/src/stm32f3xx_hal_comp.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_comp.o
  .debug_frame   0x00000000      0x150 ../arch/stm32/f3/src/stm32f3xx_hal_comp.o
  .ARM.attributes
@@ -518,7 +518,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_comp.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_comp.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_comp.o
- .debug_str     0x00000000      0x127 ../arch/stm32/f3/src/stm32f3xx_ll_comp.o
+ .debug_str     0x00000000      0x122 ../arch/stm32/f3/src/stm32f3xx_ll_comp.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_comp.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_comp.o
@@ -526,7 +526,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_spi.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_spi.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_spi.o
- .debug_str     0x00000000      0x126 ../arch/stm32/f3/src/stm32f3xx_ll_spi.o
+ .debug_str     0x00000000      0x121 ../arch/stm32/f3/src/stm32f3xx_ll_spi.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_spi.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_spi.o
@@ -540,7 +540,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_can.o
  .debug_ranges  0x00000000       0x18 ../arch/stm32/f3/src/stm32f3xx_hal_can.o
  .debug_line    0x00000000      0x620 ../arch/stm32/f3/src/stm32f3xx_hal_can.o
- .debug_str     0x00000000      0x6ed ../arch/stm32/f3/src/stm32f3xx_hal_can.o
+ .debug_str     0x00000000      0x6e8 ../arch/stm32/f3/src/stm32f3xx_hal_can.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_can.o
  .debug_frame   0x00000000      0x214 ../arch/stm32/f3/src/stm32f3xx_hal_can.o
  .ARM.attributes
@@ -554,7 +554,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_smartcard_ex.o
  .debug_line    0x00000000      0x248 ../arch/stm32/f3/src/stm32f3xx_hal_smartcard_ex.o
- .debug_str     0x00000000      0x7c2 ../arch/stm32/f3/src/stm32f3xx_hal_smartcard_ex.o
+ .debug_str     0x00000000      0x7bd ../arch/stm32/f3/src/stm32f3xx_hal_smartcard_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_smartcard_ex.o
  .debug_frame   0x00000000       0x68 ../arch/stm32/f3/src/stm32f3xx_hal_smartcard_ex.o
  .ARM.attributes
@@ -563,7 +563,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_crc.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_crc.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_crc.o
- .debug_str     0x00000000      0x126 ../arch/stm32/f3/src/stm32f3xx_ll_crc.o
+ .debug_str     0x00000000      0x121 ../arch/stm32/f3/src/stm32f3xx_ll_crc.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_crc.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_crc.o
@@ -576,7 +576,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_iwdg.o
  .debug_line    0x00000000      0x1e3 ../arch/stm32/f3/src/stm32f3xx_hal_iwdg.o
- .debug_str     0x00000000      0x2ce ../arch/stm32/f3/src/stm32f3xx_hal_iwdg.o
+ .debug_str     0x00000000      0x2c9 ../arch/stm32/f3/src/stm32f3xx_hal_iwdg.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_iwdg.o
  .debug_frame   0x00000000       0x44 ../arch/stm32/f3/src/stm32f3xx_hal_iwdg.o
  .ARM.attributes
@@ -589,7 +589,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ../arch/stm32/f3/src/stm32f3xx_hal_nor.o
  .debug_line    0x00000000      0x103 ../arch/stm32/f3/src/stm32f3xx_hal_nor.o
- .debug_str     0x00000000      0x1e4 ../arch/stm32/f3/src/stm32f3xx_hal_nor.o
+ .debug_str     0x00000000      0x1df ../arch/stm32/f3/src/stm32f3xx_hal_nor.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_nor.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_hal_nor.o
@@ -601,7 +601,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ../arch/stm32/f3/src/stm32f3xx_hal_sdadc.o
  .debug_line    0x00000000      0x103 ../arch/stm32/f3/src/stm32f3xx_hal_sdadc.o
- .debug_str     0x00000000      0x1e6 ../arch/stm32/f3/src/stm32f3xx_hal_sdadc.o
+ .debug_str     0x00000000      0x1e1 ../arch/stm32/f3/src/stm32f3xx_hal_sdadc.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_sdadc.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_hal_sdadc.o
@@ -614,7 +614,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_spi_ex.o
  .debug_line    0x00000000      0x1b4 ../arch/stm32/f3/src/stm32f3xx_hal_spi_ex.o
- .debug_str     0x00000000      0x64f ../arch/stm32/f3/src/stm32f3xx_hal_spi_ex.o
+ .debug_str     0x00000000      0x64a ../arch/stm32/f3/src/stm32f3xx_hal_spi_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_spi_ex.o
  .debug_frame   0x00000000       0x28 ../arch/stm32/f3/src/stm32f3xx_hal_spi_ex.o
  .ARM.attributes
@@ -623,7 +623,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_rtc.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_rtc.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_rtc.o
- .debug_str     0x00000000      0x126 ../arch/stm32/f3/src/stm32f3xx_ll_rtc.o
+ .debug_str     0x00000000      0x121 ../arch/stm32/f3/src/stm32f3xx_ll_rtc.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_rtc.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_rtc.o
@@ -636,7 +636,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_wwdg.o
  .debug_line    0x00000000      0x1c6 ../arch/stm32/f3/src/stm32f3xx_hal_wwdg.o
- .debug_str     0x00000000      0x2ed ../arch/stm32/f3/src/stm32f3xx_hal_wwdg.o
+ .debug_str     0x00000000      0x2e8 ../arch/stm32/f3/src/stm32f3xx_hal_wwdg.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_wwdg.o
  .debug_frame   0x00000000       0x74 ../arch/stm32/f3/src/stm32f3xx_hal_wwdg.o
  .ARM.attributes
@@ -650,7 +650,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_opamp_ex.o
  .debug_line    0x00000000      0x31f ../arch/stm32/f3/src/stm32f3xx_hal_opamp_ex.o
- .debug_str     0x00000000      0x4c6 ../arch/stm32/f3/src/stm32f3xx_hal_opamp_ex.o
+ .debug_str     0x00000000      0x4c1 ../arch/stm32/f3/src/stm32f3xx_hal_opamp_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_opamp_ex.o
  .debug_frame   0x00000000       0x5c ../arch/stm32/f3/src/stm32f3xx_hal_opamp_ex.o
  .ARM.attributes
@@ -665,7 +665,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_smbus.o
  .debug_ranges  0x00000000      0x258 ../arch/stm32/f3/src/stm32f3xx_hal_smbus.o
  .debug_line    0x00000000      0x8d0 ../arch/stm32/f3/src/stm32f3xx_hal_smbus.o
- .debug_str     0x00000000      0x6f5 ../arch/stm32/f3/src/stm32f3xx_hal_smbus.o
+ .debug_str     0x00000000      0x6f0 ../arch/stm32/f3/src/stm32f3xx_hal_smbus.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_smbus.o
  .debug_frame   0x00000000      0x2e4 ../arch/stm32/f3/src/stm32f3xx_hal_smbus.o
  .ARM.attributes
@@ -681,7 +681,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_rtc_ex.o
  .debug_line    0x00000000      0x94c ../arch/stm32/f3/src/stm32f3xx_hal_rtc_ex.o
- .debug_str     0x00000000      0xa21 ../arch/stm32/f3/src/stm32f3xx_hal_rtc_ex.o
+ .debug_str     0x00000000      0xa1c ../arch/stm32/f3/src/stm32f3xx_hal_rtc_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_rtc_ex.o
  .debug_frame   0x00000000      0x3cc ../arch/stm32/f3/src/stm32f3xx_hal_rtc_ex.o
  .ARM.attributes
@@ -696,7 +696,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_tsc.o
  .debug_ranges  0x00000000       0x78 ../arch/stm32/f3/src/stm32f3xx_hal_tsc.o
  .debug_line    0x00000000      0x4b2 ../arch/stm32/f3/src/stm32f3xx_hal_tsc.o
- .debug_str     0x00000000      0x5e0 ../arch/stm32/f3/src/stm32f3xx_hal_tsc.o
+ .debug_str     0x00000000      0x5db ../arch/stm32/f3/src/stm32f3xx_hal_tsc.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_tsc.o
  .debug_frame   0x00000000      0x1b4 ../arch/stm32/f3/src/stm32f3xx_hal_tsc.o
  .ARM.attributes
@@ -713,7 +713,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ../arch/stm32/f3/src/stm32f3xx_hal_sram.o
  .debug_line    0x00000000      0x103 ../arch/stm32/f3/src/stm32f3xx_hal_sram.o
- .debug_str     0x00000000      0x1e5 ../arch/stm32/f3/src/stm32f3xx_hal_sram.o
+ .debug_str     0x00000000      0x1e0 ../arch/stm32/f3/src/stm32f3xx_hal_sram.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_sram.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_hal_sram.o
@@ -725,7 +725,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_tim.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_tim.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_tim.o
- .debug_str     0x00000000      0x126 ../arch/stm32/f3/src/stm32f3xx_ll_tim.o
+ .debug_str     0x00000000      0x121 ../arch/stm32/f3/src/stm32f3xx_ll_tim.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_tim.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_tim.o
@@ -743,7 +743,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_rtc.o
  .debug_ranges  0x00000000      0x160 ../arch/stm32/f3/src/stm32f3xx_hal_rtc.o
  .debug_line    0x00000000      0x6ba ../arch/stm32/f3/src/stm32f3xx_hal_rtc.o
- .debug_str     0x00000000      0x759 ../arch/stm32/f3/src/stm32f3xx_hal_rtc.o
+ .debug_str     0x00000000      0x754 ../arch/stm32/f3/src/stm32f3xx_hal_rtc.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_rtc.o
  .debug_frame   0x00000000      0x268 ../arch/stm32/f3/src/stm32f3xx_hal_rtc.o
  .ARM.attributes
@@ -758,7 +758,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_flash.o
  .debug_ranges  0x00000000       0x70 ../arch/stm32/f3/src/stm32f3xx_hal_flash.o
  .debug_line    0x00000000      0x349 ../arch/stm32/f3/src/stm32f3xx_hal_flash.o
- .debug_str     0x00000000      0x53a ../arch/stm32/f3/src/stm32f3xx_hal_flash.o
+ .debug_str     0x00000000      0x535 ../arch/stm32/f3/src/stm32f3xx_hal_flash.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_flash.o
  .debug_frame   0x00000000      0x134 ../arch/stm32/f3/src/stm32f3xx_hal_flash.o
  .ARM.attributes
@@ -774,7 +774,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_ll_utils.o
  .debug_ranges  0x00000000       0xd0 ../arch/stm32/f3/src/stm32f3xx_ll_utils.o
  .debug_line    0x00000000      0x387 ../arch/stm32/f3/src/stm32f3xx_ll_utils.o
- .debug_str     0x00000000      0x649 ../arch/stm32/f3/src/stm32f3xx_ll_utils.o
+ .debug_str     0x00000000      0x644 ../arch/stm32/f3/src/stm32f3xx_ll_utils.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_utils.o
  .debug_frame   0x00000000       0xbc ../arch/stm32/f3/src/stm32f3xx_ll_utils.o
  .ARM.attributes
@@ -787,7 +787,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_dma.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_dma.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_dma.o
- .debug_str     0x00000000      0x126 ../arch/stm32/f3/src/stm32f3xx_ll_dma.o
+ .debug_str     0x00000000      0x121 ../arch/stm32/f3/src/stm32f3xx_ll_dma.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_dma.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_dma.o
@@ -801,7 +801,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_i2c_ex.o
  .debug_ranges  0x00000000       0x40 ../arch/stm32/f3/src/stm32f3xx_hal_i2c_ex.o
  .debug_line    0x00000000      0x30c ../arch/stm32/f3/src/stm32f3xx_hal_i2c_ex.o
- .debug_str     0x00000000      0x819 ../arch/stm32/f3/src/stm32f3xx_hal_i2c_ex.o
+ .debug_str     0x00000000      0x814 ../arch/stm32/f3/src/stm32f3xx_hal_i2c_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_i2c_ex.o
  .debug_frame   0x00000000       0xb0 ../arch/stm32/f3/src/stm32f3xx_hal_i2c_ex.o
  .ARM.attributes
@@ -815,7 +815,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_i2s.o
  .debug_line    0x00000000      0x5c5 ../arch/stm32/f3/src/stm32f3xx_hal_i2s.o
- .debug_str     0x00000000      0x7c4 ../arch/stm32/f3/src/stm32f3xx_hal_i2s.o
+ .debug_str     0x00000000      0x7bf ../arch/stm32/f3/src/stm32f3xx_hal_i2s.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_i2s.o
  .debug_frame   0x00000000      0x2c8 ../arch/stm32/f3/src/stm32f3xx_hal_i2s.o
  .ARM.attributes
@@ -830,7 +830,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_spi.o
  .debug_ranges  0x00000000      0x178 ../arch/stm32/f3/src/stm32f3xx_hal_spi.o
  .debug_line    0x00000000      0xb87 ../arch/stm32/f3/src/stm32f3xx_hal_spi.o
- .debug_str     0x00000000      0xae4 ../arch/stm32/f3/src/stm32f3xx_hal_spi.o
+ .debug_str     0x00000000      0xadf ../arch/stm32/f3/src/stm32f3xx_hal_spi.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_spi.o
  .debug_frame   0x00000000      0x6ac ../arch/stm32/f3/src/stm32f3xx_hal_spi.o
  .ARM.attributes
@@ -843,7 +843,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ../arch/stm32/f3/src/stm32f3xx_hal_hrtim.o
  .debug_line    0x00000000      0x103 ../arch/stm32/f3/src/stm32f3xx_hal_hrtim.o
- .debug_str     0x00000000      0x1e6 ../arch/stm32/f3/src/stm32f3xx_hal_hrtim.o
+ .debug_str     0x00000000      0x1e1 ../arch/stm32/f3/src/stm32f3xx_hal_hrtim.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_hrtim.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_hal_hrtim.o
@@ -857,7 +857,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_flash_ex.o
  .debug_ranges  0x00000000      0x178 ../arch/stm32/f3/src/stm32f3xx_hal_flash_ex.o
  .debug_line    0x00000000      0x426 ../arch/stm32/f3/src/stm32f3xx_hal_flash_ex.o
- .debug_str     0x00000000      0x696 ../arch/stm32/f3/src/stm32f3xx_hal_flash_ex.o
+ .debug_str     0x00000000      0x691 ../arch/stm32/f3/src/stm32f3xx_hal_flash_ex.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_flash_ex.o
  .debug_frame   0x00000000       0xf4 ../arch/stm32/f3/src/stm32f3xx_hal_flash_ex.o
  .ARM.attributes
@@ -873,7 +873,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_irda.o
  .debug_ranges  0x00000000       0x90 ../arch/stm32/f3/src/stm32f3xx_hal_irda.o
  .debug_line    0x00000000      0x91d ../arch/stm32/f3/src/stm32f3xx_hal_irda.o
- .debug_str     0x00000000      0xb1c ../arch/stm32/f3/src/stm32f3xx_hal_irda.o
+ .debug_str     0x00000000      0xb17 ../arch/stm32/f3/src/stm32f3xx_hal_irda.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_irda.o
  .debug_frame   0x00000000      0x420 ../arch/stm32/f3/src/stm32f3xx_hal_irda.o
  .ARM.attributes
@@ -882,7 +882,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_adc.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_adc.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_adc.o
- .debug_str     0x00000000      0x126 ../arch/stm32/f3/src/stm32f3xx_ll_adc.o
+ .debug_str     0x00000000      0x121 ../arch/stm32/f3/src/stm32f3xx_ll_adc.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_adc.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_adc.o
@@ -897,7 +897,7 @@ Discarded input sections
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_smartcard.o
  .debug_ranges  0x00000000       0xa0 ../arch/stm32/f3/src/stm32f3xx_hal_smartcard.o
  .debug_line    0x00000000      0x908 ../arch/stm32/f3/src/stm32f3xx_hal_smartcard.o
- .debug_str     0x00000000      0xcde ../arch/stm32/f3/src/stm32f3xx_hal_smartcard.o
+ .debug_str     0x00000000      0xcd9 ../arch/stm32/f3/src/stm32f3xx_hal_smartcard.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_smartcard.o
  .debug_frame   0x00000000      0x3b0 ../arch/stm32/f3/src/stm32f3xx_hal_smartcard.o
  .ARM.attributes
@@ -910,7 +910,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ../arch/stm32/f3/src/stm32f3xx_hal_nand.o
  .debug_line    0x00000000      0x103 ../arch/stm32/f3/src/stm32f3xx_hal_nand.o
- .debug_str     0x00000000      0x1e5 ../arch/stm32/f3/src/stm32f3xx_hal_nand.o
+ .debug_str     0x00000000      0x1e0 ../arch/stm32/f3/src/stm32f3xx_hal_nand.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_nand.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_hal_nand.o
@@ -920,7 +920,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_hrtim.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_hrtim.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_hrtim.o
- .debug_str     0x00000000      0x128 ../arch/stm32/f3/src/stm32f3xx_ll_hrtim.o
+ .debug_str     0x00000000      0x123 ../arch/stm32/f3/src/stm32f3xx_ll_hrtim.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_hrtim.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_hrtim.o
@@ -933,7 +933,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ../arch/stm32/f3/src/stm32f3xx_hal_crc.o
  .debug_line    0x00000000      0x337 ../arch/stm32/f3/src/stm32f3xx_hal_crc.o
- .debug_str     0x00000000      0x4b0 ../arch/stm32/f3/src/stm32f3xx_hal_crc.o
+ .debug_str     0x00000000      0x4ab ../arch/stm32/f3/src/stm32f3xx_hal_crc.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_hal_crc.o
  .debug_frame   0x00000000      0x104 ../arch/stm32/f3/src/stm32f3xx_hal_crc.o
  .ARM.attributes
@@ -942,7 +942,7 @@ Discarded input sections
  .data          0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_gpio.o
  .bss           0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_gpio.o
  .debug_line    0x00000000        0x0 ../arch/stm32/f3/src/stm32f3xx_ll_gpio.o
- .debug_str     0x00000000      0x127 ../arch/stm32/f3/src/stm32f3xx_ll_gpio.o
+ .debug_str     0x00000000      0x122 ../arch/stm32/f3/src/stm32f3xx_ll_gpio.o
  .comment       0x00000000       0x6f ../arch/stm32/f3/src/stm32f3xx_ll_gpio.o
  .ARM.attributes
                 0x00000000       0x39 ../arch/stm32/f3/src/stm32f3xx_ll_gpio.o
@@ -1513,7 +1513,7 @@ LOAD c:/some_user/sandbox/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-e
                 0x08005fcc                stop_run
                 0x08005fdc                turnright
                 0x08006010                turnleft
-                0x08006044                change_fuck
+                0x08006044                change_check
  .text          0x08006048       0x10 user_source/foo.o
                 0x08006048                foo
                 0x0800604c                TEST_FOO
@@ -2355,7 +2355,7 @@ LOAD c:/some_user/sandbox/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-e
 LOAD c:/some_user/sandbox/gcc-arm-none-eabi-5_4-2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu/crtn.o
 OUTPUT(master.elf elf32-littlearm)
 
-.debug_info     0x00000000     0xfe43
+.debug_info     0x00000000     0xfe3e
  .debug_info    0x00000000       0xbf ../arch/stm32/f3/src/stm32f3xx_hal_msp.o
  .debug_info    0x000000bf      0xa75 ../arch/stm32/f3/src/stm32f3xx_hal_timebase_tim.o
  .debug_info    0x00000b34     0x18ee ../arch/stm32/f3/src/stm32f3xx_hal_uart.o
@@ -2368,16 +2368,16 @@ OUTPUT(master.elf elf32-littlearm)
  .debug_info    0x00009063      0x673 ../arch/stm32/f3/src/stm32f3xx_hal_gpio.o
  .debug_info    0x000096d6     0x1341 ../arch/stm32/f3/src/stm32f3xx_hal_rcc.o
  .debug_info    0x0000aa17      0x3f2 ../arch/stm32/f3/src/CMSIS/system_stm32f3xx.o
- .debug_info    0x0000ae09       0xac ../arch/stm32/f3/src/CMSIS/startup_stm32f303xc.o
- .debug_info    0x0000aeb5     0x213e master.o
- .debug_info    0x0000cff3       0x96 user_source/foo.o
- .debug_info    0x0000d089      0x2b1 user_source/uart.o
- .debug_info    0x0000d33a      0x477 user_source/hal_interface/board_led.o
- .debug_info    0x0000d7b1      0x731 user_source/hal_interface/uart_hal.o
- .debug_info    0x0000dee2      0x335 user_source/hal_interface/cpu.o
- .debug_info    0x0000e217      0x880 user_source/hal_interface/newlib_stubs.o
- .debug_info    0x0000ea97      0x83d user_source/hal_interface/pwm_hal.o
- .debug_info    0x0000f2d4      0xb6f user_source/hal_interface/cube_hal_msp.o
+ .debug_info    0x0000ae09       0xa7 ../arch/stm32/f3/src/CMSIS/startup_stm32f303xc.o
+ .debug_info    0x0000aeb0     0x213e master.o
+ .debug_info    0x0000cfee       0x96 user_source/foo.o
+ .debug_info    0x0000d084      0x2b1 user_source/uart.o
+ .debug_info    0x0000d335      0x477 user_source/hal_interface/board_led.o
+ .debug_info    0x0000d7ac      0x731 user_source/hal_interface/uart_hal.o
+ .debug_info    0x0000dedd      0x335 user_source/hal_interface/cpu.o
+ .debug_info    0x0000e212      0x880 user_source/hal_interface/newlib_stubs.o
+ .debug_info    0x0000ea92      0x83d user_source/hal_interface/pwm_hal.o
+ .debug_info    0x0000f2cf      0xb6f user_source/hal_interface/cube_hal_msp.o
 
 .debug_abbrev   0x00000000     0x2adb
  .debug_abbrev  0x00000000       0x70 ../arch/stm32/f3/src/stm32f3xx_hal_msp.o
@@ -2473,48 +2473,48 @@ OUTPUT(master.elf elf32-littlearm)
  .debug_line    0x000050a8      0x21d user_source/hal_interface/pwm_hal.o
  .debug_line    0x000052c5      0x218 user_source/hal_interface/cube_hal_msp.o
 
-.debug_str      0x00000000     0x3cb4
- .debug_str     0x00000000      0x1b5 ../arch/stm32/f3/src/stm32f3xx_hal_msp.o
-                                0x1f6 (size before relaxing)
- .debug_str     0x000001b5      0xa31 ../arch/stm32/f3/src/stm32f3xx_hal_timebase_tim.o
-                                0xc32 (size before relaxing)
- .debug_str     0x00000be6      0x8e9 ../arch/stm32/f3/src/stm32f3xx_hal_uart.o
-                                0xd94 (size before relaxing)
- .debug_str     0x000014cf      0x1e2 ../arch/stm32/f3/src/stm32f3xx_hal.o
-                                0x8e9 (size before relaxing)
- .debug_str     0x000016b1      0xa64 ../arch/stm32/f3/src/stm32f3xx_hal_tim.o
-                               0x10fe (size before relaxing)
- .debug_str     0x00002115       0xef ../arch/stm32/f3/src/stm32f3xx_hal_uart_ex.o
-                                0x879 (size before relaxing)
- .debug_str     0x00002204      0x3c4 ../arch/stm32/f3/src/stm32f3xx_hal_cortex.o
-                                0xb76 (size before relaxing)
- .debug_str     0x000025c8      0x209 ../arch/stm32/f3/src/stm32f3xx_hal_dma.o
-                                0x656 (size before relaxing)
- .debug_str     0x000027d1      0x4c1 ../arch/stm32/f3/src/stm32f3xx_hal_tim_ex.o
-                                0xd1c (size before relaxing)
- .debug_str     0x00002c92      0x1c3 ../arch/stm32/f3/src/stm32f3xx_hal_gpio.o
-                                0x46f (size before relaxing)
- .debug_str     0x00002e55      0x25e ../arch/stm32/f3/src/stm32f3xx_hal_rcc.o
-                                0x68c (size before relaxing)
- .debug_str     0x000030b3       0x6e ../arch/stm32/f3/src/CMSIS/system_stm32f3xx.o
-                                0x31b (size before relaxing)
- .debug_str     0x00003121      0x6bf master.o
-                               0x127c (size before relaxing)
- .debug_str     0x000037e0       0x2d user_source/foo.o
+.debug_str      0x00000000     0x3d07
+ .debug_str     0x00000000      0x1b0 ../arch/stm32/f3/src/stm32f3xx_hal_msp.o
+                                0x1f1 (size before relaxing)
+ .debug_str     0x000001b0      0xa31 ../arch/stm32/f3/src/stm32f3xx_hal_timebase_tim.o
+                                0xc2d (size before relaxing)
+ .debug_str     0x00000be1      0x8e9 ../arch/stm32/f3/src/stm32f3xx_hal_uart.o
+                                0xd8f (size before relaxing)
+ .debug_str     0x000014ca      0x1e2 ../arch/stm32/f3/src/stm32f3xx_hal.o
+                                0x8e4 (size before relaxing)
+ .debug_str     0x000016ac      0xa64 ../arch/stm32/f3/src/stm32f3xx_hal_tim.o
+                               0x10f9 (size before relaxing)
+ .debug_str     0x00002110       0xef ../arch/stm32/f3/src/stm32f3xx_hal_uart_ex.o
+                                0x874 (size before relaxing)
+ .debug_str     0x000021ff      0x3c4 ../arch/stm32/f3/src/stm32f3xx_hal_cortex.o
+                                0xb71 (size before relaxing)
+ .debug_str     0x000025c3      0x209 ../arch/stm32/f3/src/stm32f3xx_hal_dma.o
+                                0x651 (size before relaxing)
+ .debug_str     0x000027cc      0x4c1 ../arch/stm32/f3/src/stm32f3xx_hal_tim_ex.o
+                                0xd17 (size before relaxing)
+ .debug_str     0x00002c8d      0x1c3 ../arch/stm32/f3/src/stm32f3xx_hal_gpio.o
+                                0x46a (size before relaxing)
+ .debug_str     0x00002e50      0x25e ../arch/stm32/f3/src/stm32f3xx_hal_rcc.o
+                                0x687 (size before relaxing)
+ .debug_str     0x000030ae       0x6e ../arch/stm32/f3/src/CMSIS/system_stm32f3xx.o
+                                0x316 (size before relaxing)
+ .debug_str     0x0000311c      0x6c0 master.o
+                               0x127e (size before relaxing)
+ .debug_str     0x000037dc       0x84 user_source/foo.o
                                 0x134 (size before relaxing)
- .debug_str     0x0000380d       0xd5 user_source/uart.o
+ .debug_str     0x00003860       0xd5 user_source/uart.o
                                 0x2bc (size before relaxing)
- .debug_str     0x000038e2       0x78 user_source/hal_interface/board_led.o
+ .debug_str     0x00003935       0x78 user_source/hal_interface/board_led.o
                                 0x370 (size before relaxing)
- .debug_str     0x0000395a       0x3b user_source/hal_interface/uart_hal.o
+ .debug_str     0x000039ad       0x3b user_source/hal_interface/uart_hal.o
                                 0x736 (size before relaxing)
- .debug_str     0x00003995       0x41 user_source/hal_interface/cpu.o
+ .debug_str     0x000039e8       0x41 user_source/hal_interface/cpu.o
                                 0x39b (size before relaxing)
- .debug_str     0x000039d6      0x1fa user_source/hal_interface/newlib_stubs.o
+ .debug_str     0x00003a29      0x1fa user_source/hal_interface/newlib_stubs.o
                                 0x497 (size before relaxing)
- .debug_str     0x00003bd0       0x9e user_source/hal_interface/pwm_hal.o
+ .debug_str     0x00003c23       0x9e user_source/hal_interface/pwm_hal.o
                                 0x6f7 (size before relaxing)
- .debug_str     0x00003c6e       0x46 user_source/hal_interface/cube_hal_msp.o
+ .debug_str     0x00003cc1       0x46 user_source/hal_interface/cube_hal_msp.o
                                 0x960 (size before relaxing)
 
 .comment        0x00000000       0x6e

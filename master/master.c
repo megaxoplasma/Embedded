@@ -21,7 +21,7 @@ void back(float d1, float d2);
 void turn_around_clk(float d1, float d2);
 void turn_around_cclk(float d1, float d2);
 void stop_run();
-int change_fuck(int fuck);
+int change_check(int check);
 
 float speedl=0.35f;
 float speedr=0.45f;
@@ -279,7 +279,7 @@ int main()
   
   T02 = 1;
   T01 = 2;
-int fuck = -1;  
+int check = -1;  
   
   cpu_init();
   board_led_init();
@@ -656,9 +656,9 @@ void turnleft(){
 	printf("%f \r\n","'turnleft'");
 }
 
-int change_fuck(int fuck){
+int change_check(int check){
 
-	return (fuck++);
+	return (check++);
 }
 
 
