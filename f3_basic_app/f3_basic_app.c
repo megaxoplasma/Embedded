@@ -1,12 +1,10 @@
 /*
 	This is the main user software application
-	In this case, we have below the code necessary to toggle a set of LEDs on a	STM32 F3 Discovery PCB at 20 Hz.
 
-	(c) Abhimanyu Ghosh, 2017
  */
 
 #include "cpu.h"
-#include "board_led.h"
+
 
 #include "foo.h"
 
@@ -19,7 +17,7 @@ int main()
   /*
     Initialize the GPIO (General-Purpose I/O) subsystem pins that are connected to the LEDs on the board:
    */
-  board_led_init();
+ 
 
   int i = 0;
 
@@ -41,15 +39,7 @@ int main()
     }
     else
     {
-      board_led_on(LED1);
-      board_led_off(LED2);
-
-      cpu_sw_delay(50U);  // Invoke a simple software busy-wait routine to delay approximately 50 milliseconds
-
-      board_led_off(LED1);
-      board_led_on(LED2);
-
-      cpu_sw_delay(50U);
+      
 
       ++i; // Increment i for the next test iteration...
     }
