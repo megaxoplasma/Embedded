@@ -2,10 +2,7 @@
 
 /*
 	This is the main user software application
-	In this case, we have below the code necessary to toggle a set of LEDs on a	STM32 F3 Discovery PCB 
-  in response to an EXTI (External Interrupt) occurring when a GPIO changes state due to the USER (Blue) 
-  button being pressed/released.
-	(c) Abhimanyu Ghosh, 2017
+	
  */
 
 #include "cpu.h"
