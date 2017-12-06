@@ -1,6 +1,6 @@
 /*
 	This is the main user software application
-
+(c) Ying Zhu
  */
 
 #include "cpu.h"

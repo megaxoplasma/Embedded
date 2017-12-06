@@ -1,3 +1,9 @@
+/*
+main program application
+(c) Ying Zhu
+*/
+
+
 #include "cpu.h"
 #include "board_led.h"
 #include "stm32f3xx_hal.h"
